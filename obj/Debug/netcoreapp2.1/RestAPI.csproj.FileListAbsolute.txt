@@ -1,0 +1,56 @@
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.deps.json
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.json
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.dev.json
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cache
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cs
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfo.cs
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Fuad\Desktop\Wolf\Calidad\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.deps.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.dev.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\bin\Debug\netcoreapp2.1\RestAPI.deps.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.dev.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\bin\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\bin\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI2\obj\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfo.cs
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\bin\Debug\netcoreapp2.1\RestAPI.deps.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.dev.json
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\bin\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\bin\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Gonzalo Guzmán\Desktop\RestAPI_Sinuois\obj\Debug\netcoreapp2.1\RestAPI.RazorTargetAssemblyInfo.cache
